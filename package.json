@@ -1,0 +1,15 @@
+{
+  "name": "dodotech-ecommerce-backend",
+  "version": "1.0.0",
+  "main": "src/server.ts",
+  "author": "Dodotech",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3"
+  }
+}
