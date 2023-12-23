@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\projects\\dodotech-ecommerce-backend\\logs\\winston\\successes\\.d34f150a0515016e6688364511732dfffc44dbf4-audit.json",
+    "files": [
+        {
+            "date": 1703353348439,
+            "name": "C:\\projects\\dodotech-ecommerce-backend\\logs\\winston\\successes\\phu-2023-23-12-23-success.log",
+            "hash": "c42ccca019ef8b267d85de05f378a20b7e23c477db9423a33ec32ca837842080"
+        }
+    ],
+    "hashType": "sha256"
+}
