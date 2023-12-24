@@ -14,7 +14,11 @@ app.use(cookieParser());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-app.use('/api/v1', routes);
+app.get('/', (req: Request, res: Response) => {
+  res.send('Hello World');
+});
+
+app.use('/v1', routes);
 
 //global error handler
 app.use(globalErrorHandler);
