@@ -29,6 +29,11 @@
             "date": 1703408825914,
             "name": "C:\\projects\\dodotech-ecommerce-backend\\logs\\winston\\errors\\phu-2023-24-12-15-error.log",
             "hash": "03d0033e807a8d43be23524816767a99d692f39b9553118a924001f75bb6bb35"
+        },
+        {
+            "date": 1703412516593,
+            "name": "C:\\projects\\dodotech-ecommerce-backend\\logs\\winston\\errors\\phu-2023-24-12-16-error.log",
+            "hash": "3da1718019add0c92ea2a08aa894e1c015a0df1b352c28e10517ff3931433f44"
         }
     ],
     "hashType": "sha256"
