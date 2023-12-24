@@ -18,7 +18,7 @@ app.get('/', (req: Request, res: Response) => {
   res.send('💽 Welcome To Dodohub Server!');
 });
 
-app.use('/v1', routes);
+app.use('/api/v1', routes);
 
 //global error handler
 app.use(globalErrorHandler);
