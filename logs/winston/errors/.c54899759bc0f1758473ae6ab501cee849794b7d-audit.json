@@ -9,6 +9,26 @@
             "date": 1703353348450,
             "name": "C:\\projects\\dodotech-ecommerce-backend\\logs\\winston\\errors\\phu-2023-23-12-23-error.log",
             "hash": "a9d3010c3cf8dd863771ded9db87c89d2205c58edb5fae2248c61956a04030ad"
+        },
+        {
+            "date": 1703355209703,
+            "name": "C:\\projects\\dodotech-ecommerce-backend\\logs\\winston\\errors\\phu-2023-24-12-00-error.log",
+            "hash": "897f0d669b600b61f1192db647f4efea81a4c151790aa9c02d7826f11cfdf1b6"
+        },
+        {
+            "date": 1703398056687,
+            "name": "C:\\projects\\dodotech-ecommerce-backend\\logs\\winston\\errors\\phu-2023-24-12-12-error.log",
+            "hash": "02765cf2b0e854d545ae8bce8e37ee1a6717fd53e459cf76e35450224bbce890"
+        },
+        {
+            "date": 1703401289970,
+            "name": "C:\\projects\\dodotech-ecommerce-backend\\logs\\winston\\errors\\phu-2023-24-12-13-error.log",
+            "hash": "54ad46e53c2b3abd4ad818f18c1c409cca46afd6312aa1f98969b6c07cb9f647"
+        },
+        {
+            "date": 1703408825914,
+            "name": "C:\\projects\\dodotech-ecommerce-backend\\logs\\winston\\errors\\phu-2023-24-12-15-error.log",
+            "hash": "03d0033e807a8d43be23524816767a99d692f39b9553118a924001f75bb6bb35"
         }
     ],
     "hashType": "sha256"
