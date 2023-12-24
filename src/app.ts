@@ -14,7 +14,7 @@ app.use(cookieParser());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-app.use('/', routes);
+app.use('/api/v1', routes);
 
 //global error handler
 app.use(globalErrorHandler);
