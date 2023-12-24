@@ -1,4 +1,3 @@
-import cookieParser from 'cookie-parser';
 import cors from 'cors';
 import express, { Application, NextFunction, Request, Response } from 'express';
 import httpStatus from 'http-status';
@@ -8,7 +7,6 @@ import routes from './app/routes';
 const app: Application = express();
 
 app.use(cors({ origin: 'http://localhost:3000', credentials: true }));
-app.use(cookieParser());
 
 //parser
 app.use(express.json());
