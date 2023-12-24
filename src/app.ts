@@ -15,7 +15,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 app.get('/', (req: Request, res: Response) => {
-  res.send('Hello World');
+  res.send('💽 Welcome To Dodohub Server!');
 });
 
 app.use('/v1', routes);
