@@ -18,7 +18,7 @@ app.use(express_1.default.urlencoded({ extended: true }));
 app.get('/', (req, res) => {
     res.send('💽 Welcome To Dodohub Server!');
 });
-app.use('/v1', routes_1.default);
+app.use('/api/v1', routes_1.default);
 //global error handler
 app.use(globalErrorHandler_1.default);
 //handle not found
