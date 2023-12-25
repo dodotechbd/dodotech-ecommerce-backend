@@ -6,7 +6,7 @@ var ProductType;
 (function (ProductType) {
     ProductType["PHONE"] = "Phone";
     ProductType["COMPUTERS"] = "Computers";
-    ProductType["SMARTWATCH"] = "Smart Watche";
+    ProductType["SMARTWATCH"] = "Smart Watch";
     ProductType["CAMERA"] = "Camera";
     ProductType["HEADPHONE"] = "Headphone";
     ProductType["GAMING"] = "Gaming";

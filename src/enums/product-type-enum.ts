@@ -2,7 +2,7 @@
 export enum ProductType {
   PHONE = 'Phone',
   COMPUTERS = 'Computers',
-  SMARTWATCH = 'Smart Watche',
+  SMARTWATCH = 'Smart Watch',
   CAMERA = 'Camera',
   HEADPHONE = 'Headphone',
   GAMING = 'Gaming',

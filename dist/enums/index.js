@@ -15,3 +15,4 @@ var __exportStar = (this && this.__exportStar) || function(m, exports) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 __exportStar(require("./product-type-enum"), exports);
+__exportStar(require("./user-role.enum"), exports);
